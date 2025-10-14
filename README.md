@@ -29,8 +29,8 @@
     
     ```bash
     git clone https://github.com/your-username/blog-app.git
-    <li>Open the project folder.</li>
-    <li>Run index.html in any browser.</li>
+    Open the project folder.
+    Run index.html in any browser.
 </ol>
 
 <h2>📌 Note</h2>
